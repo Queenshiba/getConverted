@@ -10,12 +10,10 @@ console.log(findAspectRatio(originalHeight, originalwidth))
 
 function setHeightGetWidth(heightAspectRatio, widthAspectRatio, newHeight) {
     return newHeight * widthAspectRatio
-
 }
 console.log(setHeightGetWidth(heightAspectRatio, widthAspectRatio, 3000))
 
 function setWidthGetHeight(heightAspectRatio, widthAspectRatio, newWidth) {
     return newWidth / widthAspectRatio
-
 }
 console.log(setWidthGetHeight(heightAspectRatio, widthAspectRatio, 1900))
