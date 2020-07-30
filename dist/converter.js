@@ -1,3 +1,4 @@
+
 // set height and width
 let originalHeight = 2600
 let originalwidth = 1000
